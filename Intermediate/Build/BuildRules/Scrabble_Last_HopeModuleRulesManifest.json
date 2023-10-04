@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Proiecte Unreal Engine\\Scrabble_Last_Hope\\Source\\Scrabble_Last_Hope\\Scrabble_Last_Hope.Build.cs",
+		"D:\\Proiecte Unreal Engine\\Scrabble_Last_Hope\\Source\\Scrabble_Last_Hope.Target.cs",
+		"D:\\Proiecte Unreal Engine\\Scrabble_Last_Hope\\Source\\Scrabble_Last_HopeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

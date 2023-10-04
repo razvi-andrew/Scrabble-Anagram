@@ -1,0 +1,11 @@
+﻿  Building Scrabble_Last_HopeEditor...
+  Using Visual Studio 2019 14.29.30147 toolchain (D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] SelectorLetterGenerator.cpp
+    [2/4] UE4Editor-Scrabble_Last_Hope-0146.lib
+       Creating library D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\UE4Editor-Scrabble_Last_Hope-0146.lib and object D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\UE4Editor-Scrabble_Last_Hope-0146.exp
+    [3/4] UE4Editor-Scrabble_Last_Hope-0146.dll
+       Creating library D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\UE4Editor-Scrabble_Last_Hope-0146.suppressed.lib and object D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\UE4Editor-Scrabble_Last_Hope-0146.suppressed.exp
+    [4/4] Scrabble_Last_HopeEditor.target
+  Total time in Parallel executor: 4,09 seconds
+  Total execution time: 4,81 seconds

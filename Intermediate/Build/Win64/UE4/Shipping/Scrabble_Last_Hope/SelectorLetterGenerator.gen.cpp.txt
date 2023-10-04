@@ -1,0 +1,5 @@
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Shipping\Scrabble_Last_Hope\Definitions.Scrabble_Last_Hope.h
+D:\Jocuri\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Jocuri\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Source\Scrabble_Last_Hope/SelectorLetterGenerator.h
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Inc\Scrabble_Last_Hope\SelectorLetterGenerator.generated.h

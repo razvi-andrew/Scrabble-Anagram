@@ -1,0 +1,2 @@
+Engine/Content/SlateDebug/Fonts/LastResort.tps	2022-11-16T16:24:34.764Z
+Engine/Content/SlateDebug/Fonts/LastResort.ttf	2022-11-16T16:24:34.764Z

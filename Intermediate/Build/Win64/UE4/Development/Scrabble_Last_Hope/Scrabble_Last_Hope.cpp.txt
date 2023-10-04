@@ -1,0 +1,2 @@
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Development\Scrabble_Last_Hope\Definitions.Scrabble_Last_Hope.h
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Source\Scrabble_Last_Hope\Scrabble_Last_Hope.h

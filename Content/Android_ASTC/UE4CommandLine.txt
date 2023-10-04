@@ -1,0 +1,1 @@
+../../../Scrabble_Last_Hope/Scrabble_Last_Hope.uproject   -Messaging -SessionId=456EECE449BB5A2BAD7AD19B31CB0DDE -SessionOwner="razvi" -SessionName="New Profile 0"  android.useAndroidX=trueandroid.enableJetifier=trueandroid.aapt2FromMaven=trueandroid.aapt2DaemonMaxHeapSize=2G  -filehostip=127.0.0.1+192.168.56.1+192.168.0.122

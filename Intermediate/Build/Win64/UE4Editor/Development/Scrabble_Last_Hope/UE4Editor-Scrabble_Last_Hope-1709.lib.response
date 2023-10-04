@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Scrabble_Last_Hope-1709.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\Scrabble_Last_HopeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\Scrabble_Last_Hope.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\Scrabble_Last_HopeGameModeBase.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\SelectorLetterGenerator.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\Scrabble_Last_Hope.init.gen.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\Scrabble_Last_HopeGameModeBase.gen.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\SelectorLetterGenerator.gen.cpp.obj"
+"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\Default.rc2.res"
+/OUT:"D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4Editor\Development\Scrabble_Last_Hope\UE4Editor-Scrabble_Last_Hope-1709.lib"

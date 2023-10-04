@@ -1,0 +1,29 @@
+Ce tip de management are ca scop procesul de organizare si planificare a modului de impartire a timpului intre diferite activitati.;time;4;4
+Ce alta denumire mai poarta principiul numit regula 20/80?;pareto;4;6
+Ce dependente pot fi definite in cadrul etapei de structurare a proiectului de catre management?;arbitrare;4;9
+Ce dependente sunt caracterizate de constrangeri nespecifice proiectului?;externe;4;7
+Sa se precizeze tipul de diagrama conditionala ce introduce posibilitatea activitatilor non-secventiale.;gert;4;4
+Ce este metoda Monte-Carlo la baza ei?;simulare;4;8
+Ce permite identificarea perioadelor in care activitatile sunt posibile?;calendar;4;8
+Vorbind de constrangeri cine stabileste evenimentele cheie sau datele importante?;stakeholders;4;12
+Ce tip de analiza permite calculul datelor de start/sfarsit al fiecarei activitati d.p.d.v teoretic?;matematica;4;10
+Metoda drumului critic - care poate fi momentul de debut al unei activitati a.i. aceasta sa nu intefereze cu activitatile anterioare.;EST;4;3
+Metoda drumului critic - care poate fi durata efectuarii activitatii. ;DUR;4;3
+Metoda drumului critic - care poate fi momentul de finalizare al unei activitati a.i. aceasta sa nu intefereze cu activitati viitoare.;LST;4;3
+Metoda drumului critic - care poate preciza cat de devreme o activitate se poate incheia. ;EFT;4;3
+Metoda drumului critic -care poate fi momentul de finalizare al unei activitati a.i. aceasta sa nu intefereze cu inceputul activitatilor ulterioare. ;LFT;4;3
+Metoda drumului critic - care poate fi diferenta dintre data de incheiere a ultimei activitati si data de finalizare a proiectului ;float;4;5
+Ce tip de management reprezinta procesul de planificare si control al bugetului unui proiect?;cost;5;4
+Care este expresia baneasca a valorii marfiii;pret;5;4
+Efortul de munca vie materializata pe care un agent economic il depune efectiv pentru fabricarea unui produs executarea unei lucrari sau a unui serviciu;cost;5;4
+Ce reprezinta procesul de utilizare a de bunuri materiale si servicii in scopul satisfacerii nevoilor;consum;5;6
+Estimari facute inaintea inceperii proiectului in lipsa informatiilor concrete si a incertitudinii activitatilor viitoare. ;aproximative;5;12
+Estimari facute prin comparare costurilor pe care le-ar necesita realizarea unui proiect nou cu costurile unor proiecte similare executate in trecut.;comparative;5;11
+Estimari facute dupa efectuarea unor activitati de conceptie preliminara a proiectului.;fezabilitate;5;12
+Estimari efectuate la sfarsitul proiectarii.;definitive;5;10
+Ce poate reprezenta un indicator universal inteles al calitatii?;cost;5;4
+Ce reprezinta totalitatea particularitatilor si caracteristicilor unui produs sau serviciu care determina capacitatea acestuia de a satisface nevoile declarate sau implicite ale utilizatorului?;calitate;6;8
+Care este metoda de comparare a proceselor proiectului pentru a obtine idei de imbunatatire a proceselor si proceduri prin care sa fie masurate performantele?;benchmarking;6;12
+Ce alta denumire mai poarta costul de esec?;neconformitate;6;14
+Ce tip de cost reprezinta costul total al eforturilor pentru atingerea cerintelor asociate unui produs sau serviciu?;calitatii;6;9
+Proces efectuat asupra produsului final in urma caruia se asigura ca acesta este in conformitate cu specificatiile initiale. ;inspectie;6;9

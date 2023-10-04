@@ -1,0 +1,45 @@
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Shipping\Scrabble_Last_Hope\Definitions.Scrabble_Last_Hope.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\chrono
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_chrono.hpp
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\fstream
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+D:\Programs\Microsoft VS\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Source\Scrabble_Last_Hope\SelectorLetterGenerator.h
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Inc\Scrabble_Last_Hope\SelectorLetterGenerator.generated.h

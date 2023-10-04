@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Scrabble_Last_Hope",
+			"Path": "D:\\Proiecte Unreal Engine\\Scrabble_Last_Hope\\Source\\Scrabble_Last_Hope.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Scrabble_Last_HopeEditor",
+			"Path": "D:\\Proiecte Unreal Engine\\Scrabble_Last_Hope\\Source\\Scrabble_Last_HopeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

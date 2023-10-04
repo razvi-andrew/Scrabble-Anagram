@@ -1,0 +1,3 @@
+D:\Proiecte Unreal Engine\Scrabble_Last_Hope\Intermediate\Build\Win64\UE4\Development\Scrabble_Last_Hope\Definitions.Scrabble_Last_Hope.h
+D:\Jocuri\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Jocuri\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

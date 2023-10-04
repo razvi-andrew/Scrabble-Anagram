@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Scrabble_Last_Hope.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B7AFF9EC-6CC9-460D-AEB9-B14F51D1C3CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Scrabble_Last_Hope.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Scrabble_Last_HopeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A53109B8-F2AC-4EBA-9011-040E3718B7D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Scrabble_Last_Hope">
+      <UniqueIdentifier>{39DB373D-84B6-4A56-9260-5C93D54C7D57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Scrabble_Last_Hope\Scrabble_Last_Hope.Build.cs">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Scrabble_Last_Hope\Scrabble_Last_Hope.cpp">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Scrabble_Last_Hope\Scrabble_Last_Hope.h">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Scrabble_Last_Hope\Scrabble_Last_HopeGameModeBase.cpp">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Scrabble_Last_Hope\Scrabble_Last_HopeGameModeBase.h">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Scrabble_Last_Hope\SelectorLetterGenerator.cpp">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Scrabble_Last_Hope\SelectorLetterGenerator.h">
+      <Filter>Source\Scrabble_Last_Hope</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
